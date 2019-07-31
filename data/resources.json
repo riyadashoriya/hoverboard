@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Season 2018",
+  "title": "GDG DevFest Season 2019",
   "description": "Be a hero. Be a GDG!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "dates": "September 21, 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followOur": "Follow our",
@@ -36,43 +36,38 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG San Francisco",
+          "url": "https://www.meetup.com/GDGSanFrancisco/",
+          "newTab": true
+        },
+        {
+          "name": "GDG Cloud San Francisco",
+          "url": "https://meetup.com/GDGCloudSF/",
+          "newTab": true
+        },
+        {
+          "name": "GDG Fremont",
+          "url": "https://www.meetup.com/GDG-Fremont/",
+          "newTab": true
+        },
+        {
+          "name": "GDG Cloud Fremont",
+          "url": "https://www.meetup.com/GDG-Cloud-Fremont/",
+          "newTab": true
+        },
+        {
+          "name": "GDG Cloud Silicon Valley",
+          "url": "https://www.meetup.com/GDGValley/",
           "newTab": true
         },
         {
           "name": "Google Developers Group",
-          "url": "https://developers.google.com/",
+          "url": "https://developers.google.com/community/gdg/",
           "newTab": true
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "Explore Past DevFests",
-      "links": [
-        {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "url": "/team/",
           "newTab": true
         }
       ]
@@ -81,29 +76,14 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Media Kit",
+          "name": "Sponsorship Kit",
           "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
           "newTab": true
         },
         {
           "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
+          "url": "https://www.papercall.io/gdgdevfest",
           "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
         }
       ]
     }
@@ -114,32 +94,30 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "description": "We’re super excited to announce GDG DevFest 2019 - San Francisco! A community-run, one-day conference aimed to bring ~300 students, developers, tech-companies and awesome speakers together under one roof where they can learn about Google’s technologies along with other emerging technologies with topics such as Android, Flutter, Firebase, Google Cloud Platform, Mobile, Web, Google Assistant, Machine Learning and more.",
+        "label": "Submit your CPF here",
+        "link": "https://www.papercall.io/gdgdevfest"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "If you'd like to become a partner, please reach out to us at [gdgsfdevfest@gmail.com](mailto:gdgsfdevfest@gmail.com)"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "300"
       },
       "days": {
-        "label": "Days",
-        "number": "2"
+        "label": "Day",
+        "number": "1"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "15"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "2"
       }
     }
   },
@@ -227,7 +205,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Meet the team behind the DevFest.<br><br>With <3<ul><li>GDG San Francisco</li><li>GDG Cloud San Francisco</li><li>GDG Fremont</li><li>GDG Cloud Fremont</li><li>GDG Cloud Silicon Valley</li>"
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -260,7 +238,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "Meet the proud organizers of DevFest San Francisco!<ul><li>GDG San Francisco</li><li>GDG Cloud San Francisco</li><li>GDG Fremont</li><li>GDG Cloud Fremont</li><li>GDG Cloud Silicon Valley</li>",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"

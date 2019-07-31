@@ -172,15 +172,15 @@
       <p class="hero-description">{$ heroSettings.speakers.description $}</p>
     </hero-block>
 
-    <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
+    <!-- <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress> -->
 
-    <filter-menu
+    <!-- <filter-menu
       filters="[[_filters]]"
       selected="[[_selectedFilters]]"
       results-count="[[speakersToRender.length]]"
-    ></filter-menu>
+    ></filter-menu> -->
 
-    <content-loader
+    <!-- <content-loader
       class="container"
       card-padding="32px"
       card-height="400px"
@@ -190,9 +190,12 @@
       box-shadow="var(--box-shadow)"
       items-count="{$ contentLoaders.speakers.itemsCount $}"
       hidden$="[[contentLoaderVisibility]]"
-    ></content-loader>
+    ></content-loader> -->
 
-    <div class="container">
+    <div class="container" style="display: block; min-height: 40%">
+      <h3>Become a Speaker. Submit your Call For Papers <a href="https://www.papercall.io/gdgdevfest">here</a>!!</h3>
+    </div>
+    <!-- <div class="container">
       <template
         is="dom-repeat"
         items="[[speakersToRender]]"
@@ -256,9 +259,9 @@
 
         </a>
       </template>
-    </div>
+    </div> -->
 
-    <previous-speakers-block></previous-speakers-block>
+    <!-- <previous-speakers-block></previous-speakers-block> -->
 
     <footer-block></footer-block>
 
