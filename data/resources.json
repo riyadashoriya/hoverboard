@@ -1,10 +1,10 @@
 {
-  "title": "GDG DevFest Season 2019",
+  "title": "GDG DevFest San Francisco",
   "description": "Be a hero. Be a GDG!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "September 21, 2019",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "partnershipProposition": "https://bit.ly/DevFestSFCFS",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -77,7 +77,7 @@
       "links": [
         {
           "name": "Sponsorship Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "https://bit.ly/DevFestSFCFS",
           "newTab": true
         },
         {
@@ -95,11 +95,13 @@
     "callToAction": {
       "featuredSessions": {
         "description": "We’re super excited to announce GDG DevFest 2019 - San Francisco! A community-run, one-day conference aimed to bring ~300 students, developers, tech-companies and awesome speakers together under one roof where they can learn about Google’s technologies along with other emerging technologies with topics such as Android, Flutter, Firebase, Google Cloud Platform, Mobile, Web, Google Assistant, Machine Learning and more.",
-        "label": "Submit your CPF here",
+        "label": "Submit your CFP here",
         "link": "https://www.papercall.io/gdgdevfest"
       },
       "howItWas": {
-        "description": "If you'd like to become a partner, please reach out to us at [gdgsfdevfest@gmail.com](mailto:gdgsfdevfest@gmail.com)"
+        "description": "If you'd like to become a partner, we'd love to have you!",
+        "label": "View our Sponsorship Proposal here",
+        "link": "https://bit.ly/DevFestSFCFS"
       }
     },
     "statisticsBlock": {

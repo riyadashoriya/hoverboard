@@ -1,9 +1,7 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "name": "GDG San Francisco",
+    "url": "https://withgdg.com"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
@@ -145,30 +143,26 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/GDGSanFrancisco"
       },
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "name": "meetup",
+        "url": "https://www.meetup.com/GDGCloudSF"
       },
       {
-        "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "name": "meetup",
+        "url": "https://www.meetup.com/GDG-Fremont"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "name": "meetup",
+        "url": "https://www.meetup.com/GDG-Cloud-Fremont"
       },
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "name": "meetup",
+        "url": "https://www.meetup.com/GDGValley"
       }
     ],
     "share": [
-      {
-        "name": "gplus",
-        "url": "https://plus.google.com/share?url="
-      },
       {
         "name": "facebook",
         "url": "https://www.facebook.com/sharer.php?u="
@@ -179,7 +173,7 @@
       }
     ]
   },
-  "mailto": " gdgsfdevfest@mail.com",
+  "mailto": " gdgsfdevfest@gmail.com",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
@@ -190,22 +184,10 @@
         "name": "google",
         "label": "Sign in with Google",
         "url": "https://accounts.google.com"
-      },
-      {
-        "name": "facebook",
-        "label": "Sign in with Facebook",
-        "url": "https://www.facebook.com"
-      },
-      {
-        "name": "twitter",
-        "label": "Sign in with Twitter",
-        "url": "https://twitter.com"
       }
     ],
     "allowedProvidersUrl": [
-      "https://accounts.google.com",
-      "https://www.facebook.com",
-      "https://twitter.com"
+      "https://accounts.google.com"
     ]
   },
   "contentLoaders": {
