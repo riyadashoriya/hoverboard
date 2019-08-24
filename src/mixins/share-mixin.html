@@ -30,7 +30,8 @@
         }
         case 'twitter': {
           height = 253;
-          const text = `Check out GDG DevFest San Francisco at #{$ hashtag $}: ${shareUrl}`;
+          const text = `Check out GDG DevFest San Francisco at #{$ hashtag $}`+
+           ` #DevFestSF #withGDG: ${shareUrl}`;
           url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}`;
           break;
         }

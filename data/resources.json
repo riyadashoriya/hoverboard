@@ -101,7 +101,7 @@
       "howItWas": {
         "description": "If you'd like to become a partner, we'd love to have you!",
         "label": "View our Sponsorship Proposal here",
-        "link": "https://bit.ly/DevFestSFCFS"
+        "link": "https://docs.google.com/document/d/1bI5vvyl_-o6aOVzg6KF3orCmNy6T6xCdGcEiYQHgIhc/edit"
       }
     },
     "statisticsBlock": {
@@ -115,17 +115,17 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "15"
+        "number": "21"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "2"
+        "number": "3"
       }
     }
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, and lunch.   Accommodation is NOT included in the ticket price.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
@@ -248,7 +248,7 @@
       },
       {
         "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "description": "Google Developers Group (GDG) - is an open and volunteer geek community which creates exciting projects and shares experiences about Google technologies with passion",
         "callToAction": {
           "label": "Read more",
           "link": "https://developers.google.com/groups/",

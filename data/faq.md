@@ -2,7 +2,7 @@
 
 ### Dates and location
 
-GDG DevFest Ukraine will take place on the 12-13th of October in [Planeta Kino (King Cross),]( https://goo.gl/Zwi76g) Lviv.
+GDG DevFest San Francisco will take place on September 21, 2019 in [Planeta Kino (King Cross),]( https://goo.gl/Zwi76g) Lviv.
 
 ### Stay Informed
 
@@ -134,4 +134,4 @@ Smoking is only permitted in designated outdoor smoking areas.
 
 ### No Soliciting
 
-No solicitation or selling of items or services is allowed at GDG DevFest Ukraine. Any attendee conducting these activities may be removed from the conference.
+No solicitation or selling of items or services is allowed at GDG DevFest San Francisco. Any attendee conducting these activities may be removed from the conference.
