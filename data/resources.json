@@ -203,7 +203,7 @@
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
     "close": "Close",
-    "generalError": "Some error has occured. Please, try again later.",
+    "generalError": "An error has occurred. Please, try again later.",
     "toast": "Successfully subscribed!"
   },
   "team": {
@@ -252,6 +252,15 @@
         "callToAction": {
           "label": "Read more",
           "link": "https://developers.google.com/groups/",
+          "newTab": true
+        }
+      },
+      {
+        "title": "What is DevFest?",
+        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
+        "callToAction": {
+          "label": "Read more",
+          "link": "https://devfest.withgoogle.com/",
           "newTab": true
         }
       }

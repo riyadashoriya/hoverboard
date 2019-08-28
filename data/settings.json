@@ -15,7 +15,6 @@
   },
   "hashtag": "DevFest19",
   "disabledSchedule": false,
-  "showSessionShortAbstract": true,
   "navigation": [
     {
       "route": "home",
