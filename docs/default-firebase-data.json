@@ -55,11 +55,11 @@
         } ],
         "startTime" : "09:00"
       }, {
-        "endTime" : "09:30",
+        "endTime" : "09:45",
         "sessions" : [ {
           "items" : [ 102 ]
         } ],
-        "startTime" : "09:45"
+        "startTime" : "09:30"
       }, {
         "endTime" : "09:50",
         "sessions" : [ {
@@ -198,57 +198,68 @@
     "101" : {
       "description" : "Get your badge, coffee, enjoy talking with tech edicts around.",
       "icon" : "registration",
+      "tags" : [ "General" ],
       "title" : "Check In & Coffee"
     },
     "102" : {
       "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
       "icon" : "opening",
       "language" : "English",
+      "tags" : [ "General" ],
       "title" : "GDG DevFest San Francisco 2019 Opening"
     },
     "103" : {
       "description" : "Coffeeeeeee and time to socialize between talks.",
       "icon" : "coffee-break",
+      "tags" : [ "General" ],
       "title" : "Break"
     },
     "104" : {
       "description" : "Coffeeeeeee and time to socialize between talks.",
       "icon" : "coffee-break",
+      "tags" : [ "General" ],
       "title" : "Break"
     },
     "105" : {
       "description" : "Coffeeeeeee and time to socialize between talks.",
       "icon" : "coffee-break",
+      "tags" : [ "General" ],
       "title" : "Break"
     },
     "106" : {
       "description" : "Foooooooood!",
       "icon" : "lunch",
+      "tags" : [ "General" ],
       "title" : "Lunch"
     },
     "107" : {
       "description" : "Coffeeeeeee and time to socialize between talks.",
       "icon" : "coffee-break",
+      "tags" : [ "General" ],
       "title" : "Break"
     },
     "108" : {
       "description" : "Coffeeeeeee and time to socialize between talks.",
       "icon" : "coffee-break",
+      "tags" : [ "General" ],
       "title" : "Break"
     },
     "109" : {
       "description" : "Coffeeeeeee and time to socialize between talks.",
       "icon" : "coffee-break",
+      "tags" : [ "General" ],
       "title" : "Break"
     },
     "110" : {
       "description" : "Coffeeeeeee and time to socialize between talks.",
       "icon" : "coffee-break",
+      "tags" : [ "General" ],
       "title" : "Break"
     },
     "111" : {
       "description" : "TBA",
       "language" : "English",
+      "tags" : [ "General" ],
       "title" : "Fireside Chat"
     },
     "201" : {
@@ -263,8 +274,7 @@
       "complexity" : "All",
       "description" : "TBA",
       "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "General" ],
       "title" : "TBA"
     },
     "203" : {
@@ -287,8 +297,7 @@
       "complexity" : "All",
       "description" : "TBA",
       "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "General" ],
       "title" : "TBA"
     },
     "206" : {
@@ -303,8 +312,7 @@
       "complexity" : "All",
       "description" : "TBA",
       "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "General" ],
       "title" : "TBA"
     },
     "301" : {
@@ -335,24 +343,21 @@
       "complexity" : "All",
       "description" : "TBA",
       "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "ML" ],
       "title" : "TBA"
     },
     "305" : {
       "complexity" : "All",
       "description" : "TBA",
       "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "ML" ],
       "title" : "TBA"
     },
     "306" : {
       "complexity" : "All",
       "description" : "TBA",
       "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "ML" ],
       "title" : "TBA"
     },
     "307" : {
@@ -383,8 +388,7 @@
       "complexity" : "All",
       "description" : "TBA",
       "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "Cloud" ],
       "title" : "TBA"
     },
     "404" : {
@@ -415,8 +419,7 @@
       "complexity" : "All",
       "description" : "TBA",
       "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ ],
+      "tags" : [ "Cloud" ],
       "title" : "TBA"
     }
   },
@@ -426,7 +429,7 @@
       "company" : "Quizlet",
       "companyLogo" : "https://quizlet.com/a/i/logo/Quizlet-print.1cb9134976f36dc.png",
       "companyLogoUrl" : "https://quizlet.com/a/i/logo/Quizlet-print.1cb9134976f36dc.png",
-      "country" : "San Francisco, CA",
+      "country" : "San Francisco, United States",
       "featured" : true,
       "name" : "Riya Dashoriya",
       "photo" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/Screen%20Shot%202019-07-30%20at%2011.17.04%20PM.png?alt=media&token=83b994da-fec3-445f-b7ee-63d6ba3aa0f9",
@@ -461,7 +464,7 @@
       "company" : "Tinder",
       "companyLogo" : "https://www.gotinder.com/images/tinderNewLogo.svg",
       "companyLogoUrl" : "https://www.gotinder.com/images/tinderNewLogo.svg",
-      "country" : "Hollywood, CA",
+      "country" : "Hollywood, United States",
       "featured" : true,
       "name" : "Kyle Boss",
       "photo" : "https://pbs.twimg.com/profile_images/692077172853321728/APT52So6_400x400.png",
@@ -485,7 +488,7 @@
       "company" : "Twilio",
       "companyLogo" : "https://www.twilio.com/marketing/bundles/company/img/logos/red/twilio-logo-red.svg",
       "companyLogoUrl" : "https://www.twilio.com/marketing/bundles/company/img/logos/red/twilio-logo-red.svg",
-      "country" : "San Francisco, CA",
+      "country" : "San Francisco, United States",
       "featured" : true,
       "name" : "Lizzie  Siegle",
       "photo" : "https://pbs.twimg.com/profile_images/1140007087289671680/i46tv1zk_400x400.jpg",
@@ -509,7 +512,7 @@
       "company" : "Pinn",
       "companyLogo" : "https://www.pinn.ai/graphics/pinn-logo-blue.eb86a29d.svg",
       "companyLogoUrl" : "https://www.pinn.ai/graphics/pinn-logo-blue.eb86a29d.svg",
-      "country" : "San Francsico, CA",
+      "country" : "San Francsico, United States",
       "featured" : true,
       "name" : "Jeremy Glassenberg",
       "photo" : "https://media.licdn.com/dms/image/C5603AQG4EsFPR_5SSg/profile-displayphoto-shrink_800_800/0?e=1572480000&v=beta&t=MbShXODJNs5_E_B9xLf96-sPm0lR_uNYYq2NHqTqMW4",
@@ -533,7 +536,7 @@
       "company" : "Dataland",
       "companyLogo" : "https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/pyyltxesxjgqvf5rtbko",
       "companyLogoUrl" : "https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/pyyltxesxjgqvf5rtbko",
-      "country" : "San Francisco, CA",
+      "country" : "San Francisco, United States",
       "featured" : true,
       "name" : "Lavanya Shukla",
       "photo" : "https://pbs.twimg.com/profile_images/1165661840757514240/MMNl_jbh_400x400.jpg",
@@ -557,7 +560,7 @@
       "company" : "Cruise Automation",
       "companyLogo" : "https://customer-stories-feed.github.com/customer_stories/cruise-automation/logo.svg",
       "companyLogoUrl" : "https://customer-stories-feed.github.com/customer_stories/cruise-automation/logo.svg",
-      "country" : "San Francisco, CA",
+      "country" : "San Francisco, United States",
       "featured" : true,
       "name" : "Bill Stavroulakis",
       "photo" : "https://pbs.twimg.com/profile_images/1160414595124621314/WWQleV6M_400x400.jpg",
