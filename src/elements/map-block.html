@@ -62,7 +62,7 @@
     <template is="dom-if" if="[[viewport.isTabletPlus]]">
       <good-map
         id="map"
-        api-key="{$ googleMapApiKey $}"
+        api-key="{$ firebase.apiKey $}"
         latitude="{$ location.mapCenter.latitude $}"
         longitude="{$ location.mapCenter.longitude $}"
         zoom="{$ location.pointer.zoom $}"

@@ -180,15 +180,15 @@
       <p class="hero-description">{$ heroSettings.speakers.description $}</p>
     </hero-block>
 
-  <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
+    <paper-progress indeterminate hidden$="[[contentLoaderVisibility]]"></paper-progress>
 
-   <filter-menu
+    <filter-menu
       filters="[[_filters]]"
       selected="[[_selectedFilters]]"
       results-count="[[speakersToRender.length]]"
     ></filter-menu>
 
-     <content-loader
+    <content-loader
       class="container"
       card-padding="32px"
       card-height="400px"
@@ -200,9 +200,6 @@
       hidden$="[[contentLoaderVisibility]]"
     ></content-loader>
 
-    <!-- <div class="container" style="display: block; min-height: 40%">
-      <h3>Become a Speaker. Submit your Call For Papers <a href="https://www.papercall.io/gdgdevfest">here</a>!!</h3>
-    </div> -->
     <div class="container">
       <template
         is="dom-repeat"
@@ -377,4 +374,3 @@
 
   </script>
 </dom-module>
-

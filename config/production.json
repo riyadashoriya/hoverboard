@@ -4,13 +4,13 @@
   "analytics": "UA-141722737-1",
   "prefix": "/",
   "firebase": {
+    "appId": "",
     "apiKey": "AIzaSyC4SgHfm-ckv3XVoE2U2eGbSjhQQSruVnE",
     "authDomain": "sf-devfest.firebaseapp.com",
     "databaseURL": "https://sf-devfest.firebaseio.com",
     "projectId": "sf-devfest",
-    "storageBucket": "",
-    "messagingSenderId": "492218847437",
-    "appId": "1:492218847437:web:3871573071009c4e"
+    "storageBucket": "sf-devfest.appspot.com",
+    "messagingSenderId": "492218847437"
   },
   "googleMapApiKey": ""
 }
