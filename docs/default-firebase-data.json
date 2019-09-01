@@ -263,29 +263,6 @@
       "title" : "Fireside Chat"
     },
     "201" : {
-      "complexity" : "All",
-      "description" : "Accessibility is not an option; it’s a must have. Making a website accessible is not one person’s responsibility, it should be a shared goal. We all work on websites/software with legacy code, shared code, and it’s not easy to go back to converting a website into an accessible one. In the USA itself, the number of lawsuits filed because a website was inaccessible..has increased a lot in the last 3 years. \nThey say, “Take the first step.” Hear the story of how we took the initiative of making Quizlet accessible by becoming Level A compliant. Quizlet, currently used by over 50 million users per month, provides simple learning tools that let you study anything. Learn what 11 actions we exerted for accessibility, how we overcame the challenges of having a shared code between Android, IOS, and Web, and making Quizlet accessible and inclusive for everyone.",
-      "language" : "English",
-      "speakers" : [ "riya_dashoriya" ],
-      "tags" : [ "Web", "Accessibility" ],
-      "title" : "11 ways to make your website #a11y compliant"
-    },
-    "202" : {
-      "complexity" : "All",
-      "description" : "TBA",
-      "language" : "English",
-      "tags" : [ "General" ],
-      "title" : "TBA"
-    },
-    "203" : {
-      "complexity" : "All",
-      "description" : "Do you find yourself repeatedly answering the same questions over-and-over? Why not hand off that part to a bot? Similarly, do you ever find yourself frustrated with a bot and just want to speak to a human? Luckily for web developers, Twilio Autopilot makes this easy! This intelligent bot building platform lets you create intelligent bots that get smarter the more times they are used. You can train each Assistant on different inputs so it can respond to different ways of the same question being asked. When the need arises, it is also easy to stop talking with the bot so a human can respond. In this talk we’ll make a Facebook Messenger bot that does just that and then starts a conversation via SendGrid instead of Facebook Messenger.",
-      "language" : "English",
-      "speakers" : [ "lizzie_siegle", "walter_lee" ],
-      "tags" : [ "General", "Chat Bot" ],
-      "title" : "Build a Facebook Messenger Bot with Twilio Autopilot in Node.js"
-    },
-    "204" : {
       "complexity" : "Intermediate",
       "description" : "As popular web services extend their developer platforms for partners to integrate directly into their interfaces, design trends are forming from experiences in the world of embedded integrations. With Google Drive connecting tools like Balsamiq and ShiftEdit, Gmail enabling Docusign in their web and mobile UI, and Trello’s PowerUps, custom experiences powered by third parties are proving themselves to be a great way to improve one’s product and grow your business. \nAfter analyzing over 10 years of experiments in this space, seeing past failures and current successes, we can identify what works from successful and unsuccessful platforms, what trends are working, and what UX and technical considerations are needed to launch your own successful embedded integration plan.",
       "language" : "English",
@@ -293,20 +270,45 @@
       "tags" : [ "General" ],
       "title" : "Designing Embedded Platforms: Lessons from Industry Success & Failure"
     },
-    "205" : {
+    "202" : {
       "complexity" : "All",
-      "description" : "TBA",
+      "description" : "Accessibility is not an option; it’s a must have. Making a website accessible is not one person’s responsibility, it should be a shared goal. We all work on websites/software with legacy code, shared code, and it’s not easy to go back to converting a website into an accessible one. In the USA itself, the number of lawsuits filed because a website was inaccessible..has increased a lot in the last 3 years. \nThey say, “Take the first step.” Hear the story of how we took the initiative of making Quizlet accessible by becoming Level A compliant. Quizlet, currently used by over 50 million users per month, provides simple learning tools that let you study anything. Learn what 11 actions we exerted for accessibility, how we overcame the challenges of having a shared code between Android, IOS, and Web, and making Quizlet accessible and inclusive for everyone.",
       "language" : "English",
-      "tags" : [ "General" ],
-      "title" : "TBA"
+      "speakers" : [ "riya_dashoriya" ],
+      "tags" : [ "Web", "Accessibility" ],
+      "title" : "11 ways to make your website #a11y compliant"
     },
-    "206" : {
+    "203" : {
+      "complexity" : "Intermediate",
+      "description" : "Arguing with design and product about every feature that needs to be built is tough. With so many things to consider, rampant “feature creep” produces delay, frustration, and ultimately, poor-performing products! \nThat’s why setting a Performance Budget (PB) early in the development cycle will simplify the design-product-eng conversation. A PB is a group of limits to certain metrics that cannot be exceeded when building a website. It is a clear reference point to frame decisions about what can and can’t be included. \nCome and learn why a Performance Budget is so useful.We’ll discuss how you can use it and how to choose the right metrics to keep track of it. You will discover a drama-free way of approaching the performance discussion.",
+      "language" : "English",
+      "speakers": [ "marcos_iglesias_valle" ],
+      "tags" : [ "Web", "Performance" ],
+      "title" : "Performance Budgets: The what, why and how"
+    },
+    "204" : {
       "complexity" : "All",
       "description" : "We want to be able to edit the content ourselves. kthx, \n💜Marketing💜 \n \n#BigMood 😅 \nDon’t dust off that PHP for Dummies book just yet! There is a new tool on the React scene that has been generating a lot of buzz recently. It’s called GatsbyJS. \nCome learn how Tinder used GatsbyJS to implement our heavy-traffic lifestyle blog. We will also spill the tea on the challenges we faced while using this cutting edge technology. After attending this talk, you too will be able to go back to your epic engineering lives and create a website that non-engineers can edit themselves… all in React! 💪 \n \n🌈🌈What does it all mean!?🌈🌈 GatsbyJS is a static-site generator that collects content from a Wordpress CMS, feeds it into a React app, and then turns it into a static website by generating a bunch of static HTML files. \n - Non-engineering teams are empowered to create fabulous content without engineers. \n - Engineering teams are empowered to code in familiar programming languages. \n - Users can breeze through the website – it’s static. No real-time API calls. Automagically optimized images. Speedy load-times. 🚀 \n - Boss gives everyone raises. \n \nBring your humor, forget the PHP, & let’s have some nerdy fun together!",
       "language" : "English",
       "speakers" : [ "kyle_boss" ],
       "tags" : [ "Web", "Gatsby" ],
       "title" : "A Tinder Love Story: How we created our WordPress blog in React instead of PHP"
+    },
+    "205" : {
+      "complexity" : "All",
+      "description" : "Years ago we lived in a world of monoliths as core of system. Then began times when we started having hundreds and thousands of microservices. In microservices architecture, diagnosing and debugging could be extremely challenging during outages. It is a tedious process to understand how various parts are connected with each other to serve a request. Having monitoring dashboards help, but they alone don’t serve the purpose of debugging in production. How do engineers who are not devops / SREs deal with it? A set of strategy is required to address outages in a timely manner. This talk tells about how bigger companies like Uber use observability and development principles to untangle complex production code and to keep system running even when thousands of developers work with ample of individual microservices.",
+      "language" : "English",
+      "speakers": [ "tanvi_patel" ],
+      "tags" : [ "General" ],
+      "title" : "Production Debugging for Everyday Programmer"
+    },
+    "206" : {
+      "complexity" : "All",
+      "description" : "Do you find yourself repeatedly answering the same questions over-and-over? Why not hand off that part to a bot? Similarly, do you ever find yourself frustrated with a bot and just want to speak to a human? Luckily for web developers, Twilio Autopilot makes this easy! This intelligent bot building platform lets you create intelligent bots that get smarter the more times they are used. You can train each Assistant on different inputs so it can respond to different ways of the same question being asked. When the need arises, it is also easy to stop talking with the bot so a human can respond. In this talk we’ll make a Facebook Messenger bot that does just that and then starts a conversation via SendGrid instead of Facebook Messenger.",
+      "language" : "English",
+      "speakers" : [ "lizzie_siegle", "walter_lee" ],
+      "tags" : [ "General", "Chat Bot" ],
+      "title" : "Design Considerations for Building Better Bots"
     },
     "207" : {
       "complexity" : "All",
@@ -341,10 +343,11 @@
     },
     "304" : {
       "complexity" : "All",
-      "description" : "TBA",
+      "description" : "Have you always wanted to be like Bach and Mozart but never had the time or resources to learn the art of music? Be sad no more! Vikram knows nothing about music, yet he thinks he might have a solution for you. Listen him out?",
       "language" : "English",
-      "tags" : [ "ML" ],
-      "title" : "TBA"
+      "speakers" : [ "vikram_tiwari" ],
+      "tags" : [ "ML", "TensorFlow" ],
+      "title" : "Be Bach on a Budget"
     },
     "305" : {
       "complexity" : "All",
@@ -386,10 +389,11 @@
     },
     "403" : {
       "complexity" : "All",
-      "description" : "TBA",
+      "description" : "At Quizlet, one of our highest throughput services, backed by MySQL, has been the source of multiple performance problems. In addition to the high throughput, the data managed by this service has a growth rate of ~2 billion records/month (and increasing!). At peak traffic, the service takes upwards of 10K writes/second. \nWith scalability problems breathing down our neck, we decided to migrate our data and workload on to Cloud Spanner. There were challenges at every step of the way, from designing the schema, to migrating data, and getting a microservice serving from Cloud Spanner, without taking an outage. \nDid we succeed? What lessons did we learn along the way? Come find out.",
       "language" : "English",
+      "speakers": [ "amol_deshmukh" ],
       "tags" : [ "Cloud" ],
-      "title" : "TBA"
+      "title" : "Keeping it Re(lation)al: moving from MySQL to Cloud Spanner without skipping a beat"
     },
     "404" : {
       "complexity" : "All",
@@ -512,7 +516,7 @@
       "company" : "Pinn",
       "companyLogo" : "https://www.pinn.ai/graphics/pinn-logo-blue.eb86a29d.svg",
       "companyLogoUrl" : "https://www.pinn.ai/graphics/pinn-logo-blue.eb86a29d.svg",
-      "country" : "San Francsico, United States",
+      "country" : "San Francisco, United States",
       "featured" : true,
       "name" : "Jeremy Glassenberg",
       "photo" : "https://media.licdn.com/dms/image/C5603AQG4EsFPR_5SSg/profile-displayphoto-shrink_800_800/0?e=1572480000&v=beta&t=MbShXODJNs5_E_B9xLf96-sPm0lR_uNYYq2NHqTqMW4",
@@ -773,6 +777,101 @@
       } ],
       "order" : 12,
       "title" : "Developer Advocate"
+    },
+    "marcos_iglesias_valle" : {
+      "bio" : "Marcos Iglesias is a senior software engineer who builds compelling user interfaces at Eventbrite. Marcos is passionate about improving developer efficiency, building tools and setting up processes to save his peers both time and effort. On top of all that, he enjoys contributing to Eventbrite’s Engineering blog. \nMarcos has seven years of experience developing web applications and sites with JavaScript, HTML and CSS. He has worked in different fields, including e-commerce, online banking and SaaS platforms.",
+      "company" : "Eventbrite",
+      "companyLogo" : "https://s3.amazonaws.com/eventbrite-s3/marketing/landingpages/assets/logos/eventbrite_logo_2018.svg",
+      "companyLogoUrl" : "https://s3.amazonaws.com/eventbrite-s3/marketing/landingpages/assets/logos/eventbrite_logo_2018.svg",
+      "country" : "San Francisco, United States",
+      "featured" : true,
+      "name" : "Marcos Iglesias Valle",
+      "photo" : "https://pbs.twimg.com/profile_images/1792033797/BWsmile_322x322_400x400.jpg",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/1792033797/BWsmile_322x322_400x400.jpg",
+      "pronouns": "he/him",
+      "shortBio" : "Marcos Iglesias is a senior software engineer who builds compelling user interfaces at Eventbrite. Marcos is passionate about improving developer efficiency, building tools and setting up processes to save his peers both time and effort. On top of all that, he enjoys contributing to Eventbrite’s Engineering blog. \nMarcos has seven years of experience developing web applications and sites with JavaScript, HTML and CSS. He has worked in different fields, including e-commerce, online banking and SaaS platforms.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/golodhros",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://www.marcosiglesias.com/",
+        "name" : "Website"
+      }],
+      "order" : 13,
+      "title" : "Senior Software Engineer"
+    },
+    "amol_deshmukh" : {
+      "bio" : "Amol Deshmukh is a Software Architect at Quizlet. He has over 20 years of professional experience working on large scale systems at Yahoo, Twitter, Salesforce. At Quizlet, he leads the transition to a microservices architecture.",
+      "company" : "Quizlet",
+      "companyLogo" : "https://quizlet.com/a/i/logo/Quizlet-print.1cb9134976f36dc.png",
+      "companyLogoUrl" : "https://quizlet.com/a/i/logo/Quizlet-print.1cb9134976f36dc.png",
+      "country" : "San Francisco, United States",
+      "featured" : true,
+      "name" : "Amol Deshmukh",
+      "photo" : "https://pbs.twimg.com/profile_images/1792033797/BWsmile_322x322_400x400.jpg",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/1792033797/BWsmile_322x322_400x400.jpg",
+      "pronouns": "he/him",
+      "shortBio" : "Amol Deshmukh is a Software Architect at Quizlet. He has over 20 years of professional experience working on large scale systems at Yahoo, Twitter, Salesforce. At Quizlet, he leads the transition to a microservices architecture.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/amolsdeshmukh/",
+        "name" : "LinkedIn"
+      }],
+      "order" : 14,
+      "title" : "Software Architect"
+    },
+    "vikram_tiwari" : {
+      "bio" : "Vikram Tiwari is tech Co-founder and full stack developer focused on building scalable web platforms for high availability, resilience, and security. \nHe is currently building solutions to simplify multi-channel advertising space at Omni Labs, Inc. in San Francisco, California. In past, he has built a Real-Time Bidder which served over ~12Bn queries each day. \nOutside of work, he has a passion for contributing to open source community as one of the core contributors in MEAN Stack framework, among other web and cloud projects. He loves working with startups and developers in helping them navigate through challenges and succeed in their journey.",
+      "company" : "Omni Labs",
+      "companyLogo" : "https://storage.googleapis.com/omni-website-public/images/logo.png",
+      "companyLogoUrl" : "https://storage.googleapis.com/omni-website-public/images/logo.png",
+      "country" : "San Francisco, United States",
+      "featured" : true,
+      "name" : "Vikram Tiwari",
+      "photo" : "https://pbs.twimg.com/profile_images/1042957336334131200/vBl5XU04_400x400.jpg",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/1042957336334131200/vBl5XU04_400x400.jpg",
+      "pronouns": "he/him",
+      "shortBio" : "Vikram Tiwari is tech Co-founder and full stack developer focused on building scalable web platforms for high availability, resilience, and security. \nHe is currently building solutions to simplify multi-channel advertising space at Omni Labs, Inc. in San Francisco, California. In past, he has built a Real-Time Bidder which served over ~12Bn queries each day. \nOutside of work, he has a passion for contributing to open source community as one of the core contributors in MEAN Stack framework, among other web and cloud projects. He loves working with startups and developers in helping them navigate through challenges and succeed in their journey.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Vikram_Tiwari",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "https://vikramtiwari.com/",
+        "name" : "Website"
+      } ],
+      "badges" : [ {
+        "description" : "Google Developers Expert",
+        "name" : "gde"
+      },  {
+        "description" : "Google Developers Group Lead",
+        "name" : "gdg"
+      } ],
+      "order" : 15,
+      "title" : "Co-Founder"
+    },
+    "tanvi_patel" : {
+      "bio" : "Tanvi currently works as Software Engineer at Uber, San Francisco as part of Marketplace team. She originally hails from India. Having worked in small as well as large scaled based companies and research lab, she has great exposure in working with engineers from around the world.",
+      "company" : "Uber",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/uber_2018_logo.png?alt=media&token=1a93c1ee-9714-49a3-83a4-849a68e16e43",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/uber_2018_logo.png?alt=media&token=1a93c1ee-9714-49a3-83a4-849a68e16e43",
+      "country" : "San Francisco, United States",
+      "featured" : true,
+      "name" : "Tanvi Patel",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/tanvi-patel.jpg?alt=media&token=4021f590-3dfc-42bd-8094-441ac7a5f216",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/tanvi-patel.jpg?alt=media&token=4021f590-3dfc-42bd-8094-441ac7a5f216",
+      "pronouns": "she/her",
+      "shortBio" : "Tanvi currently works as Software Engineer at Uber, San Francisco as part of Marketplace team. She originally hails from India. Having worked in small as well as large scaled based companies and research lab, she has great exposure in working with engineers from around the world.",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://tanvip.github.io/",
+        "name" : "Website"
+      } ],
+      "order" : 17,
+      "title" : "Software Engineer"
     }
   },
   "team" : [ {
