@@ -288,7 +288,7 @@
     },
     "204" : {
       "complexity" : "All",
-      "description" : "We want to be able to edit the content ourselves. kthx, \n💜Marketing💜 \n \n#BigMood 😅 \nDon’t dust off that PHP for Dummies book just yet! There is a new tool on the React scene that has been generating a lot of buzz recently. It’s called GatsbyJS. \nCome learn how Tinder used GatsbyJS to implement our heavy-traffic lifestyle blog. We will also spill the tea on the challenges we faced while using this cutting edge technology. After attending this talk, you too will be able to go back to your epic engineering lives and create a website that non-engineers can edit themselves… all in React! 💪 \n \n🌈🌈What does it all mean!?🌈🌈 GatsbyJS is a static-site generator that collects content from a Wordpress CMS, feeds it into a React app, and then turns it into a static website by generating a bunch of static HTML files. \n - Non-engineering teams are empowered to create fabulous content without engineers. \n - Engineering teams are empowered to code in familiar programming languages. \n - Users can breeze through the website – it’s static. No real-time API calls. Automagically optimized images. Speedy load-times. 🚀 \n - Boss gives everyone raises. \n \nBring your humor, forget the PHP, & let’s have some nerdy fun together!",
+      "description" : "\"Hey, do you think can you make us a blog or website we can update ourselves using WordPress?\" 😅 PHP!? Yikes! \nDon’t dust off that PHP for Dummies book just yet! There is a new tool on the React scene that has been generating a lot of buzz recently. It’s called GatsbyJS. Come learn how Tinder used GatsbyJS to implement our heavy-traffic lifestyle blog. We will also spill the tea on the challenges we faced while using this cutting edge technology. After attending this talk, you will be able to: \n- Go back to your epic engineering lives and create a website that non-engineers can edit themselves… all in React! 💪 \n- Empower non-engineering teams to create fabulous content without engineers. \n- Empower engineering teams to code in their favorite programming languages. \n- Empower users to surf your fast, static website. No real-time API calls. Automagically optimized images. Speedy load-times. 🚀 \n- Convince your boss to give everyone raises. \nBring your humor, forget the PHP, & let’s have some nerdy fun together!",
       "language" : "English",
       "speakers" : [ "kyle_boss" ],
       "tags" : [ "Web", "Gatsby" ],
@@ -312,10 +312,11 @@
     },
     "207" : {
       "complexity" : "All",
-      "description" : "TBA",
+      "description" : "Creating awareness on GraphQL as an engineer that delivered a GraphQL/ReactJS app at Facebook in 2017. Now, I see GraphQL ready to take the same leap to the forefront of API technology that ReactJS did with web few years ago. Also sharing quiz link for potential users to check their skills with.",
       "language" : "English",
-      "tags" : [ "General" ],
-      "title" : "TBA"
+      "speakers" : [ "abhishek_chowdhury" ],
+      "tags" : [ "Web", "GraphQL" ],
+      "title" : "Catching The GraphQL Wave"
     },
     "301" : {
       "complexity" : "All",
@@ -351,10 +352,11 @@
     },
     "305" : {
       "complexity" : "All",
-      "description" : "TBA",
+      "description" : "As a Data Scientist (or aspiring Data Scientist) we are overwhelmed by the amount of knowledge we need to have and acquire. Every day there is a new technique, a new framework, a new state of the art model. For the last few years, Deep Learning has become a hot topic and it is the main driver of many applications. But how can we start our Deep Learning journey? Which of the several deep learning frameworks should we use? Where can I find examples of code that work and that I can use without worrying about the license? In this talk, I will show you how you can start with Deep Learning without any previous Deep Learning knowledge and how you can have a basic ready-to-use deep learning “service” running in less than five minutes.",
       "language" : "English",
-      "tags" : [ "ML" ],
-      "title" : "TBA"
+      "speakers" : [ "gabriela_de_queiroz" ],
+      "tags" : [ "ML", "TensorFlow" ],
+      "title" : "Ready to use Deep Learning Models"
     },
     "306" : {
       "complexity" : "All",
@@ -375,7 +377,7 @@
       "complexity" : "Intermediate",
       "description" : "In this talk you will hear the story of how a chain of pet clinics started their journey from a legacy system to a container-based and serverless system on Google Cloud Platform, the code they wrote, and the benefits they reaped. You will also learn how you can embark on that journey with your organization, and achieve safer deployments and lower cost if you already have. \nAs developers we used to have to choose between: + Containers: move software from developers’ machines to the cloud with confidence. + Serverless: only pay for the computing you actually use. \nCome and see how to achieve both!",
       "language" : "English",
-      "speakers" : [ "martin_omander" ],
+      "speakers" : [ "martin_omander", "zoe_omander" ],
       "tags" : [ "Cloud", "Serverless" ],
       "title" : "Serverless Containers - a match made in heaven"
     },
@@ -421,10 +423,11 @@
     },
     "407" : {
       "complexity" : "All",
-      "description" : "TBA",
+      "description" : "In this talk, we will go through some of the most interesting yet not that highly visible features of Google Compute Engine. We will touch scheduling, networking, persistency and performance.",
       "language" : "English",
+      "speakers": [ "jaana_b_dogan" ],
       "tags" : [ "Cloud" ],
-      "title" : "TBA"
+      "title" : "VMs: The Less Boring Parts"
     }
   },
   "speakers" : {
@@ -464,17 +467,17 @@
       "title" : "Software Engineer"
     },
     "kyle_boss" : {
-      "bio" : "I am 26 years young. UC Berkeley is my alma mater. GO BEARS 🐻 I am a tech enthusiast. In 2017 I injected an NFC chip into my hand & programmed it to be my work key-card. 🤖 I live in Hollywood, California ⭐️ (Obligatory imdb). Talk to me about Eurovision & Big Brother.",
+      "bio" : "Kyle is a Web Developer @ Tinder 🔥In 2016 he graduated from UC Berkeley and now lives in Hollywood, California ⭐️GO BEARS 🐻In 2017 he implanted an NFC chip into his hand & programmed it to be his work key-card. 🤖 When he isn't coding, he is usually watching Big Brother or attending Eurovision.",
       "company" : "Tinder",
       "companyLogo" : "https://www.gotinder.com/images/tinderNewLogo.svg",
       "companyLogoUrl" : "https://www.gotinder.com/images/tinderNewLogo.svg",
       "country" : "Hollywood, United States",
       "featured" : true,
       "name" : "Kyle Boss",
-      "photo" : "https://pbs.twimg.com/profile_images/692077172853321728/APT52So6_400x400.png",
-      "photoUrl" : "https://pbs.twimg.com/profile_images/692077172853321728/APT52So6_400x400.png",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/kyle-boss.jpg?alt=media&token=f5373039-8b5a-4ae3-b1bb-2be75add3484",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/kyle-boss.jpg?alt=media&token=f5373039-8b5a-4ae3-b1bb-2be75add3484",
       "pronouns": "he/him",
-      "shortBio" : "I am 26 years young. UC Berkeley is my alma mater. GO BEARS 🐻 I am a tech enthusiast. In 2017 I injected an NFC chip into my hand & programmed it to be my work key-card. 🤖 I live in Hollywood, California ⭐️ (Obligatory imdb). Talk to me about Eurovision & Big Brother.",
+      "shortBio" : "Kyle is a Web Developer @ Tinder 🔥In 2016 he graduated from UC Berkeley and now lives in Hollywood, California ⭐️GO BEARS 🐻In 2017 he implanted an NFC chip into his hand & programmed it to be his work key-card. 🤖 When he isn't coding, he is usually watching Big Brother or attending Eurovision.",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/likeakyleboss",
@@ -810,8 +813,8 @@
       "country" : "San Francisco, United States",
       "featured" : true,
       "name" : "Amol Deshmukh",
-      "photo" : "https://pbs.twimg.com/profile_images/1792033797/BWsmile_322x322_400x400.jpg",
-      "photoUrl" : "https://pbs.twimg.com/profile_images/1792033797/BWsmile_322x322_400x400.jpg",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/amolsdeshmukh.jpg?alt=media&token=d7afd72a-50c1-4eb2-86af-5ccf68963de9",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/amolsdeshmukh.jpg?alt=media&token=d7afd72a-50c1-4eb2-86af-5ccf68963de9",
       "pronouns": "he/him",
       "shortBio" : "Amol Deshmukh is a Software Architect at Quizlet. He has over 20 years of professional experience working on large scale systems at Yahoo, Twitter, Salesforce. At Quizlet, he leads the transition to a microservices architecture.",
       "socials" : [ {
@@ -872,6 +875,89 @@
       } ],
       "order" : 17,
       "title" : "Software Engineer"
+    },
+    "abhishek_chowdhury" : {
+      "bio" : "Creative polymath currently engineering at Apple, leading Facebook DevCircle San Jose, and mentoring the immediate future of web engineering in cutting edge web technologies at UCJS. Love nature, music, and genuine positive humans. Doing my part in creating sustainable systems that deliver harmonious outputs from chaotic inputs.",
+      "company" : "Apple",
+      "companyLogo" : "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+      "companyLogoUrl" : "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+      "country" : "Silicon Valley, United States",
+      "featured" : true,
+      "name" : "Abhishek Chowdhury",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/abhishek_chowdhury.jpg?alt=media&token=e0e116f8-f315-4e1c-a41a-416e57d424da",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/abhishek_chowdhury.jpg?alt=media&token=e0e116f8-f315-4e1c-a41a-416e57d424da",
+      "pronouns": "he/him",
+      "shortBio" : "Creative polymath currently engineering at Apple, leading Facebook DevCircle San Jose, and mentoring the immediate future of web engineering in cutting edge web technologies at UCJS. Love nature, music, and genuine positive humans. Doing my part in creating sustainable systems that deliver harmonious outputs from chaotic inputs.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/abhishek-chowdhury/",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 18,
+      "title" : "Software Engineer"
+    },
+    "jaana_b_dogan" : {
+      "bio" : "Jaana B. Dogan is working for Google Compute Engine at Google. She has a decade-long experience in building developer platforms and tools.",
+      "company" : "Google",
+      "companyLogo" : "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+      "companyLogoUrl" : "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+      "country" : "San Francisco, United States",
+      "featured" : true,
+      "name" : "Jaana B. Dogan",
+      "photo" : "https://pbs.twimg.com/profile_images/1168020012822650880/Lcr4GP2k_400x400.jpg",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/1168020012822650880/Lcr4GP2k_400x400.jpg",
+      "pronouns": "she/her",
+      "shortBio" : "Jaana B. Dogan is working for Google Compute Engine at Google. She has a decade-long experience in building developer platforms and tools.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/rakyll",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "https://rakyll.org/",
+        "name" : "Website"
+      }],
+      "badges" : [ {
+        "description" : "Google",
+        "name" : "google"
+      } ],
+      "order" : 19,
+      "title" : "Software Engineer"
+    },
+    "gabriela_de_queiroz" : {
+      "bio" : "Gabriela de Queiroz is a Sr. Developer Advocate/Sr. Engineering & Data Science Manager at IBM where she leads the Machine Learning Team. She works in different open source projects and is actively involved with several organizations to foster an inclusive community. She is the founder of R-Ladies, a worldwide organization for promoting diversity in the R community with more than 150 chapters in 45+ countries. She is now working on her new community called AI Inclusive. Our mission is to increase the representation and participation of minority groups in Artificial Intelligence.",
+      "company" : "IBM",
+      "companyLogo" : "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg",
+      "companyLogoUrl" : "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg",
+      "country" : "San Francisco, United States",
+      "featured" : true,
+      "name" : "Gabriela de Queiroz",
+      "photo" : "https://pbs.twimg.com/profile_images/1054941297272750080/YZrpuzWj_400x400.jpg",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/1054941297272750080/YZrpuzWj_400x400.jpg",
+      "pronouns": "she/her",
+      "shortBio" : "Gabriela de Queiroz is a Sr. Developer Advocate/Sr. Engineering & Data Science Manager at IBM where she leads the Machine Learning Team. She works in different open source projects and is actively involved with several organizations to foster an inclusive community. She is the founder of R-Ladies, a worldwide organization for promoting diversity in the R community with more than 150 chapters in 45+ countries. She is now working on her new community called AI Inclusive. Our mission is to increase the representation and participation of minority groups in Artificial Intelligence.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/gdequeiroz",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "https://k-roz.com/",
+        "name" : "Website"
+      }],
+      "order" : 20,
+      "title" : "Sr. Developer Advocate"
+    },
+    "zoe_omander" : {
+      "bio" : "I run on caffeine and do presentations with my dad.",
+      "country" : "Mountain View, United States",
+      "featured" : true,
+      "name" : "Zoe Omander",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/zoe_omander.jpg?alt=media&token=1c96bd47-ba5b-47f2-a1ff-de56f3c3180c",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/zoe_omander.jpg?alt=media&token=1c96bd47-ba5b-47f2-a1ff-de56f3c3180c",
+      "pronouns": "she/her",
+      "shortBio" : "I run on caffeine and do presentations with my dad.",
+      "order" : 21
     }
   },
   "team" : [ {
