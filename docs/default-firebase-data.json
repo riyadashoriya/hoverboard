@@ -400,11 +400,11 @@
     },
     "404" : {
       "complexity" : "All",
-      "description" : "There are more ways now than ever to build for Google Assistant and figuring out the right approach for you is crucial. In this talk, we’ll start with changes in user’s behaviors that Google has seen via user studies and market research; then we’ll go over different ways you can build.",
+      "description" : "The Google Assistant is here to change the way users get things done. This intro session will cover the fundamentals of the Google Assistant and what you can build for the assistive future. See which development journeys to take as a web developer, Android app developer, or as you're building an Action from scratch. Learn how to make your existing content easily available on the Assistant and how to create new immersive Assistant experiences.",
       "language" : "English",
-      "speakers" : [ "jessica_earley_cha" ],
+      "speakers" : [ "daniel_myers" ],
       "tags" : [ "Cloud", "Assistant" ],
-      "title" : "Ways to build for Google Assistant"
+      "title" : "Intro to the Google Assistant: Build Your First Action"
     },
     "405" : {
       "complexity" : "All",
@@ -754,26 +754,26 @@
       "order" : 11,
       "title" : "Product Manager"
     },
-    "jessica_earley_cha" : {
-      "bio" : "Jessica Dene Earley-Cha is a Developer Advocate for Google Assistant. She loves to connect with developers and explore VUI (voice user interface) to add another dimension to how user interact with technology. Jessica is part of the leadership team for WomenInVoice@. You’ll find her either spending time with her dog, collecting strawberry knick knack or biking around town.",
+    "daniel_myers" : {
+      "bio" : "Daniel Myers is a Developer Advocate at Google on the Google Assistant and Actions on Google team. He's held roles in product development, engineering, product marketing, and business management from startups including LiveWire Hosting and PetroCloud to Fortune 500 companies like Google, Cisco, and Fujitsu. Daniel is an inventor of 3 patents and has a bachelor's degree in Computer Engineering plus an MBA from the University of Texas at Dallas. If you don’t find Daniel coding, you’ll probably find him talking about a new investment or business idea.",
       "company" : "Google",
       "companyLogo" : "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
       "companyLogoUrl" : "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
       "country" : "Mountain View, United States",
       "featured" : true,
-      "name" : "Jessica Earley-Cha",
-      "photo" : "https://pbs.twimg.com/profile_images/928318803380903936/nPNEE2gC_400x400.jpg",
-      "photoUrl" : "https://pbs.twimg.com/profile_images/928318803380903936/nPNEE2gC_400x400.jpg",
-      "pronouns": "she/her",
-      "shortBio" : "Jessica Dene Earley-Cha is a Developer Advocate for Google Assistant. She loves to connect with developers and explore VUI (voice user interface) to add another dimension to how user interact with technology. Jessica is part of the leadership team for WomenInVoice@. You’ll find her either spending time with her dog, collecting strawberry knick knack or biking around town.",
+      "name" : "Daniel Myers",
+      "photo" : "https://pbs.twimg.com/profile_images/1109525391901945856/bHpGsJfw_400x400.png",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/1109525391901945856/bHpGsJfw_400x400.png",
+      "pronouns": "he/him",
+      "shortBio" : "Daniel Myers is a Developer Advocate at Google on the Google Assistant and Actions on Google team. He's held roles in product development, engineering, product marketing, and business management from startups including LiveWire Hosting and PetroCloud to Fortune 500 companies like Google, Cisco, and Fujitsu. Daniel is an inventor of 3 patents and has a bachelor's degree in Computer Engineering plus an MBA from the University of Texas at Dallas. If you don’t find Daniel coding, you’ll probably find him talking about a new investment or business idea.",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/chatasweetie",
+        "link" : "https://twitter.com/jdanielmyers",
         "name" : "Twitter"
       }, {
-        "icon" : "website",
-        "link" : "https://medium.com/@jessicadeneearley",
-        "name" : "Website"
+        "icon" : "linkedin",
+        "link" : "https://linkedin.com/in/jdanielmyers",
+        "name" : "LinkedIn"
       }],
       "badges" : [ {
         "description" : "Google",
