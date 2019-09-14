@@ -360,10 +360,11 @@
     },
     "306" : {
       "complexity" : "All",
-      "description" : "TBA",
+      "description" : "The use of machine learning in the industry is so recent that most companies are still trying to figure out what skills to look for when hiring for machine learning roles and how to assess those skills. This makes it hard for candidates to prepare. \nIn this talk, I’ll go over the different types of machine learning roles, the recruiting pipeline for those roles, and the interviewing process. This talk will also give practical tips for candidates to apply and interview for machine learning roles.",
       "language" : "English",
-      "tags" : [ "ML" ],
-      "title" : "TBA"
+      "speakers" : [ "chip_huyen" ],
+      "tags" : [ "ML", "Interviews" ],
+      "title" : "Machine Learning Interviews"
     },
     "307" : {
       "complexity" : "All",
@@ -546,8 +547,8 @@
       "country" : "San Francisco, United States",
       "featured" : true,
       "name" : "Lavanya Shukla",
-      "photo" : "https://pbs.twimg.com/profile_images/1165661840757514240/MMNl_jbh_400x400.jpg",
-      "photoUrl" : "https://pbs.twimg.com/profile_images/1165661840757514240/MMNl_jbh_400x400.jpg",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/lavanya.jpg?alt=media&token=c4d3c39d-2e8c-4413-aafa-da1e9eef6f04",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/lavanya.jpg?alt=media&token=c4d3c39d-2e8c-4413-aafa-da1e9eef6f04",
       "pronouns": "she/her",
       "shortBio" : "Lavanya is a machine learning engineer @ Weights and Biases. She began working on AI 10 years ago when she founded ACM SIGAI at Purdue University as a sophomore. In a past life, she taught herself to code at age 10, and built her first startup at 14. She’s driven by a deep desire to understand the universe around us better by using machine learning.",
       "socials" : [ {
@@ -963,6 +964,30 @@
         "name" : "Instagram"
       }],
       "order" : 21
+    },
+    "chip_huyen" : {
+      "bio" : "Chip Huyen is working on productizing AI research at NVIDIA, focusing on building systems that can intelligently understand, process, and generate human language material. She graduated from Stanford University, where she created and taught the course TensorFlow for Deep Learning Research. She’s a key contributor to the toolkits OpenSeq2Seq, lazynlp, and SOTAWhat. \nShe’s also the author of four best-selling Vietnamese books. Her writings have been published in leading newspapers in the USA, France, and Vietnam. \nPreviously, she was with Netflix, Primer, Baomoi.com (acquired by VNG). She helped launch Coc Coc - Vietnam’s second most popular web browser with 20+ million monthly active users.",
+      "company" : "NVIDIA",
+      "companyLogo" : "https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg",
+      "companyLogoUrl" : "https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg",
+      "country" : "San Francisco, United States",
+      "featured" : true,
+      "name" : "Chip Huyen",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/chipro.png?alt=media&token=ab70a6fa-563b-4b32-96a7-345a7591891c",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/chipro.png?alt=media&token=ab70a6fa-563b-4b32-96a7-345a7591891c",
+      "pronouns": "she/her",
+      "shortBio" : "Chip Huyen is working on productizing AI research at NVIDIA, focusing on building systems that can intelligently understand, process, and generate human language material. She graduated from Stanford University, where she created and taught the course TensorFlow for Deep Learning Research. She’s a key contributor to the toolkits OpenSeq2Seq, lazynlp, and SOTAWhat. \nShe’s also the author of four best-selling Vietnamese books. Her writings have been published in leading newspapers in the USA, France, and Vietnam. \nPreviously, she was with Netflix, Primer, Baomoi.com (acquired by VNG). She helped launch Coc Coc - Vietnam’s second most popular web browser with 20+ million monthly active users.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/chipro",
+        "name" : "Twittwe"
+      }, {
+        "icon" : "website",
+        "link" : "https://huyenchip.com/",
+        "name" : "Website"
+      } ],
+      "order" : 22,
+      "title" : "Software Engineer"
     }
   },
   "team" : [ {
