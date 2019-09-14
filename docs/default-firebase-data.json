@@ -288,7 +288,7 @@
     },
     "204" : {
       "complexity" : "All",
-      "description" : "\"Hey, do you think can you make us a blog or website we can update ourselves using WordPress?\" 😅 PHP!? Yikes! \nDon’t dust off that PHP for Dummies book just yet! There is a new tool on the React scene that has been generating a lot of buzz recently. It’s called GatsbyJS. Come learn how Tinder used GatsbyJS to implement our heavy-traffic lifestyle blog. We will also spill the tea on the challenges we faced while using this cutting edge technology. After attending this talk, you will be able to: \n- Go back to your epic engineering lives and create a website that non-engineers can edit themselves… all in React! 💪 \n- Empower non-engineering teams to create fabulous content without engineers. \n- Empower engineering teams to code in their favorite programming languages. \n- Empower users to surf your fast, static website. No real-time API calls. Automagically optimized images. Speedy load-times. 🚀 \n- Convince your boss to give everyone raises. \nBring your humor, forget the PHP, & let’s have some nerdy fun together!",
+      "description" : "\"Hey, do you think can you make us a blog or website we can update ourselves using WordPress?\" 😅 PHP!? Yikes! \nDon’t dust off that PHP for Dummies book just yet! There is a new tool on the React scene that has been generating a lot of buzz recently. It’s called GatsbyJS. Come learn how Tinder used GatsbyJS to implement our heavy-traffic lifestyle blog. We will also spill the tea on the challenges we faced while using this cutting edge technology. After attending this talk, you will be able to: \n- Empower non-engineering teams to create fabulous content without engineers. \n- Empower engineering teams to code in their favorite programming languages. \n- Empower users to surf your fast, static website. No real-time API calls. Automagically optimized images. Speedy load-times. 🚀 \n- Convince your boss to give everyone raises. \n Bring your humor, forget the PHP, & let’s have some nerdy fun together!",
       "language" : "English",
       "speakers" : [ "kyle_boss" ],
       "tags" : [ "Web", "Gatsby" ],
@@ -949,14 +949,19 @@
       "title" : "Sr. Developer Advocate"
     },
     "zoe_omander" : {
-      "bio" : "I run on caffeine and do presentations with my dad.",
+      "bio" : "Zoë Omander is a high school student who likes to play the guitar and ukulele. She also edits and publishes videos to YouTube. If her last name looks familiar, it's because she is Martin Omander's daughter.",
       "country" : "Mountain View, United States",
       "featured" : true,
-      "name" : "Zoe Omander",
+      "name" : "Zoë Omander",
       "photo" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/zoe_omander.jpg?alt=media&token=1c96bd47-ba5b-47f2-a1ff-de56f3c3180c",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/zoe_omander.jpg?alt=media&token=1c96bd47-ba5b-47f2-a1ff-de56f3c3180c",
       "pronouns": "she/her",
-      "shortBio" : "I run on caffeine and do presentations with my dad.",
+      "shortBio" : "Zoë Omander is a high school student who likes to play the guitar and ukulele. She also edits and publishes videos to YouTube. If her last name looks familiar, it's because she is Martin Omander's daughter.",
+      "socials" : [{
+        "icon" : "instagram",
+        "link" : "https://www.instagram.com/zoe_omander/",
+        "name" : "Instagram"
+      }],
       "order" : 21
     }
   },
