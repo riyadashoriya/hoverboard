@@ -44,6 +44,35 @@
     } ],
     "order" : 0,
     "title" : "General Partner"
+  }, {
+    "logos" : [ {
+      "order" : 0,
+      "logoUrl" : "https://www.gospel.tech/wp-content/uploads/2019/07/logo-1.png",
+      "name" : "Gospel Technology",
+      "url" : "https://www.gospel.tech/"
+    }, {
+      "order" : 1,
+      "logoUrl" : "https://quizlet.com/a/i/logo/Quizlet-print.1cb9134976f36dc.png",
+      "name" : "Quizlet",
+      "url" : "https://quizlet.com/"
+    }, {
+      "order" : 2,
+      "logoUrl" : "https://upload.wikimedia.org/wikipedia/commons/6/67/Typeform_Logo.svg",
+      "name" : "Typeform",
+      "url" : "https://typeform.com/"
+    }, {
+      "order" : 3,
+      "logoUrl" : "https://cloud.google.com/_static/6c9830f127/images/cloud/cloud-logo.svg",
+      "name" : "Google Cloud",
+      "url" : "https://cloud.google.com/"
+    }, {
+      "order" : 4,
+      "logoUrl" : "https://developers.google.com/_static/6c9830f127/images/redesign-14/lockup-color.png",
+      "name" : "Google Developers",
+      "url" : "https://developers.google.com/"
+    } ],
+    "order" : 1,
+    "title" : "Sponsors"
   } ],
   "schedule" : {
     "2019-09-21" : {
@@ -69,11 +98,13 @@
       }, {
         "endTime" : "10:30",
         "sessions" : [ {
-          "items" : [ 201 ]
+          "items" : [ 401 ]
         }, {
           "items" : [ 301 ]
         }, {
-          "items" : [ 401 ]
+          "items" : [ 201 ]
+        }, {
+          "items" : [ 501 ]
         } ],
         "startTime" : "09:50"
       }, {
@@ -85,11 +116,13 @@
       }, {
         "endTime" : "11:15",
         "sessions" : [ {
-          "items" : [ 202 ]
+          "items" : [ 402 ]
         }, {
           "items" : [ 302 ]
         }, {
-          "items" : [ 402 ]
+          "items" : [ 202 ]
+        }, {
+          "items" : [ 502 ]
         } ],
         "startTime" : "10:35"
       }, {
@@ -101,11 +134,13 @@
       }, {
         "endTime" : "12:00",
         "sessions" : [ {
-          "items" : [ 203 ]
+          "items" : [ 403 ]
         }, {
           "items" : [ 303 ]
         }, {
-          "items" : [ 403 ]
+          "items" : [ 203 ]
+        }, {
+          "items" : [ 503 ]
         } ],
         "startTime" : "11:20"
       }, {
@@ -117,11 +152,13 @@
       }, {
         "endTime" : "13:40",
         "sessions" : [ {
-          "items" : [ 204 ]
+          "items" : [ 404 ]
         }, {
           "items" : [ 304 ]
         }, {
-          "items" : [ 404 ]
+          "items" : [ 204 ]
+        }, {
+          "items" : [ 504 ]
         } ],
         "startTime" : "13:00"
       }, {
@@ -133,11 +170,13 @@
       }, {
         "endTime" : "14:25",
         "sessions" : [ {
-          "items" : [ 205 ]
+          "items" : [ 405 ]
         }, {
           "items" : [ 305 ]
         }, {
-          "items" : [ 405 ]
+          "items" : [ 205 ]
+        }, {
+          "items" : [ 505 ]
         } ],
         "startTime" : "13:45"
       }, {
@@ -149,11 +188,13 @@
       }, {
         "endTime" : "15:10",
         "sessions" : [ {
-          "items" : [ 206 ]
+          "items" : [ 406 ]
         }, {
           "items" : [ 306 ]
         }, {
-          "items" : [ 406 ]
+          "items" : [ 206 ]
+        }, {
+          "items" : [ 506 ]
         } ],
         "startTime" : "14:30"
       }, {
@@ -165,11 +206,13 @@
       }, {
         "endTime" : "15:55",
         "sessions" : [ {
-          "items" : [ 207 ]
+          "items" : [ 407 ]
         }, {
           "items" : [ 307 ]
         }, {
-          "items" : [ 407 ]
+          "items" : [ 207 ]
+        }, {
+          "items" : [ 507 ]
         } ],
         "startTime" : "15:15"
       }, {
@@ -186,11 +229,13 @@
         "startTime" : "16:00"
       } ],
       "tracks" : [ {
-        "title" : "Room TBA"
+        "title" : "Library"
       }, {
-        "title" : "Room TBA"
+        "title" : "Launchpad"
       }, {
-        "title" : "Room TBA"
+        "title" : "Speakeasy"
+      }, {
+        "title" : "Cafe"
       } ]
     }
   },
@@ -198,6 +243,7 @@
     "101" : {
       "description" : "Get your badge, coffee, enjoy talking with tech edicts around.",
       "icon" : "registration",
+      "speakers": [ "michael_solati", "riya_dashoriya", "kubra_zengin" ],
       "tags" : [ "General" ],
       "title" : "Check In & Coffee"
     },
@@ -259,6 +305,7 @@
     "111" : {
       "description" : "TBA",
       "language" : "English",
+      "speakers": [ "michael_solati", "lizzie_siegle", "lavanya_shukla" ],
       "tags" : [ "General" ],
       "title" : "Fireside Chat"
     },
@@ -288,7 +335,7 @@
     },
     "204" : {
       "complexity" : "All",
-      "description" : "\"Hey, do you think can you make us a blog or website we can update ourselves using WordPress?\" 😅 PHP!? Yikes! \nDon’t dust off that PHP for Dummies book just yet! There is a new tool on the React scene that has been generating a lot of buzz recently. It’s called GatsbyJS. Come learn how Tinder used GatsbyJS to implement our heavy-traffic lifestyle blog. We will also spill the tea on the challenges we faced while using this cutting edge technology. After attending this talk, you will be able to: \n- Empower non-engineering teams to create fabulous content without engineers. \n- Empower engineering teams to code in their favorite programming languages. \n- Empower users to surf your fast, static website. No real-time API calls. Automagically optimized images. Speedy load-times. 🚀 \n- Convince your boss to give everyone raises. \n Bring your humor, forget the PHP, & let’s have some nerdy fun together!",
+      "description" : "\"Hey, do you think can you make us a blog or website we can update ourselves using WordPress?\" 😅 PHP!? Yikes! \nDon’t dust off that PHP for Dummies book just yet! There is a new tool on the React scene that has been generating a lot of buzz recently. It’s called GatsbyJS. Come learn how Tinder used GatsbyJS to implement our heavy-traffic lifestyle blog. We will also spill the tea on the challenges we faced while using this cutting edge technology. After attending this talk, you will be able to: \n- Empower non-engineering teams to create fabulous content without engineers. \n- Empower engineering teams to code in their favorite programming languages. \n- Empower users to surf your fast, static website. No real-time API calls. Automagically optimized images. Speedy load-times. 🚀 \n- Convince your boss to give everyone raises. \n \n Bring your humor, forget the PHP, & let’s have some nerdy fun together!",
       "language" : "English",
       "speakers" : [ "kyle_boss" ],
       "tags" : [ "Web", "Gatsby" ],
@@ -296,11 +343,11 @@
     },
     "205" : {
       "complexity" : "All",
-      "description" : "Years ago we lived in a world of monoliths as core of system. Then began times when we started having hundreds and thousands of microservices. In microservices architecture, diagnosing and debugging could be extremely challenging during outages. It is a tedious process to understand how various parts are connected with each other to serve a request. Having monitoring dashboards help, but they alone don’t serve the purpose of debugging in production. How do engineers who are not devops / SREs deal with it? A set of strategy is required to address outages in a timely manner. This talk tells about how bigger companies like Uber use observability and development principles to untangle complex production code and to keep system running even when thousands of developers work with ample of individual microservices.",
+      "description" : "From plain old JavaScript to jQuery to React / Angular, or from Python2 to Python3! How do you deal with migrations to newer tech stack? Or even worse, how do you introduce newer technology within legacy code jungle? \nThis talk will provide helpful suggestions on how to deal with the tangled web of legacy code created over time. It will address approaches to effectively plan for refactoring to comply legacy code with a modern framework.",
       "language" : "English",
       "speakers": [ "tanvi_patel" ],
       "tags" : [ "General" ],
-      "title" : "Production Debugging for Everyday Programmer"
+      "title" : "Migrations in Legacy Code"
     },
     "206" : {
       "complexity" : "All",
@@ -429,6 +476,62 @@
       "speakers": [ "jaana_b_dogan" ],
       "tags" : [ "Cloud" ],
       "title" : "VMs: The Less Boring Parts"
+    },
+    "501" : {
+      "complexity" : "All",
+      "description" : "Machine learning workshop. This is an all day workshop in the cafe.",
+      "language" : "English",
+      "speakers": [ "daniel_goncharov" ],
+      "tags" : [ "Workshop", "ML" ],
+      "title" : "Machine Learning Workshop"
+    },
+    "502" : {
+      "complexity" : "All",
+      "description" : "Machine learning workshop. This is an all day workshop in the cafe.",
+      "language" : "English",
+      "speakers": [ "daniel_goncharov" ],
+      "tags" : [ "Workshop", "ML" ],
+      "title" : "Machine Learning Workshop"
+    },
+    "503" : {
+      "complexity" : "All",
+      "description" : "Machine learning workshop. This is an all day workshop in the cafe.",
+      "language" : "English",
+      "speakers": [ "daniel_goncharov" ],
+      "tags" : [ "Workshop", "ML" ],
+      "title" : "Machine Learning Workshop"
+    },
+    "504" : {
+      "complexity" : "All",
+      "description" : "Machine learning workshop. This is an all day workshop in the cafe.",
+      "language" : "English",
+      "speakers": [ "daniel_goncharov" ],
+      "tags" : [ "Workshop", "ML" ],
+      "title" : "Machine Learning Workshop"
+    },
+    "505" : {
+      "complexity" : "All",
+      "description" : "Machine learning workshop. This is an all day workshop in the cafe.",
+      "language" : "English",
+      "speakers": [ "daniel_goncharov" ],
+      "tags" : [ "Workshop", "ML" ],
+      "title" : "Machine Learning Workshop"
+    },
+    "506" : {
+      "complexity" : "All",
+      "description" : "Machine learning workshop. This is an all day workshop in the cafe.",
+      "language" : "English",
+      "speakers": [ "daniel_goncharov" ],
+      "tags" : [ "Workshop", "ML" ],
+      "title" : "Machine Learning Workshop"
+    },
+    "507" : {
+      "complexity" : "All",
+      "description" : "Machine learning workshop. This is an all day workshop in the cafe.",
+      "language" : "English",
+      "speakers": [ "daniel_goncharov" ],
+      "tags" : [ "Workshop", "ML" ],
+      "title" : "Machine Learning Workshop"
     }
   },
   "speakers" : {
@@ -819,6 +922,10 @@
       "pronouns": "he/him",
       "shortBio" : "Amol Deshmukh is a Software Architect at Quizlet. He has over 20 years of professional experience working on large scale systems at Yahoo, Twitter, Salesforce. At Quizlet, he leads the transition to a microservices architecture.",
       "socials" : [ {
+        "icon": "twitter",
+        "link": "https://twitter.com/amolweb",
+        "name": "Twitter"
+      }, {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/amolsdeshmukh/",
         "name" : "LinkedIn"
@@ -988,6 +1095,54 @@
       } ],
       "order" : 22,
       "title" : "Software Engineer"
+    },
+    "kubra_zengin" : {
+      "bio" : "Community Manager for North America region at Google.",
+      "company" : "Google",
+      "companyLogo" : "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+      "companyLogoUrl" : "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+      "country" : "Mountain View, United States",
+      "featured" : true,
+      "name" : "Kübra Zengin",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/kubra_zengin.jpg?alt=media&token=45be31eb-4178-43c5-9898-2bc5d27457ab",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/kubra_zengin.jpg?alt=media&token=45be31eb-4178-43c5-9898-2bc5d27457ab",
+      "pronouns": "she/her",
+      "shortBio" : "Community Manager for North America region at Google.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/kubra__zengin",
+        "name" : "Twitter"
+      }],
+      "badges" : [ {
+        "description" : "Google",
+        "name" : "google"
+      } ],
+      "order" : 23,
+      "title" : "Developer Relations Program Manager"
+    },
+    "daniel_goncharov" : {
+      "bio" : "Daniel Goncharov is the head of robotics at 42 Silicon Valley as well as an organizer of GDG Cloud Silicon Valley.",
+      "company" : "42 Silicon Valley",
+      "companyLogo" : "https://www.42.us.org/wp-content/themes/42/images/42_logo_black.svg",
+      "companyLogoUrl" : "https://www.42.us.org/wp-content/themes/42/images/42_logo_black.svg",
+      "country" : "Fremont, United States",
+      "featured" : true,
+      "name" : "Daniel Goncharov",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/daniel_goncharov.jpg?alt=media&token=73cfc86a-3b9f-44e5-a37f-c99d4fd3f3a4",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/daniel_goncharov.jpg?alt=media&token=73cfc86a-3b9f-44e5-a37f-c99d4fd3f3a4",
+      "pronouns": "he/him",
+      "shortBio" : "Daniel Goncharov is the head of robotics at 42 Silicon Valley as well as an organizer of GDG Cloud Silicon Valley.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/dan-goncharov/",
+        "name" : "LinkedIn"
+      }],
+      "badges" : [{
+        "description" : "Google Developers Group Lead",
+        "name" : "gdg"
+      } ],
+      "order" : 24,
+      "title" : "Head of 42 Robotics"
     }
   },
   "team" : [ {
