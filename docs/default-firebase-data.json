@@ -243,7 +243,6 @@
     "101" : {
       "description" : "Get your badge, coffee, enjoy talking with tech edicts around.",
       "icon" : "registration",
-      "speakers": [ "michael_solati", "riya_dashoriya", "kubra_zengin" ],
       "tags" : [ "General" ],
       "title" : "Check In & Coffee"
     },
@@ -251,6 +250,7 @@
       "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
       "icon" : "opening",
       "language" : "English",
+      "speakers": [ "michael_solati", "riya_dashoriya", "kubra_zengin" ],
       "tags" : [ "General" ],
       "title" : "GDG DevFest San Francisco 2019 Opening"
     },
