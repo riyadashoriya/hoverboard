@@ -250,7 +250,7 @@
       "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
       "icon" : "opening",
       "language" : "English",
-      "speakers": [ "michael_solati", "riya_dashoriya", "kubra_zengin" ],
+      "speakers": [ "riya_dashoriya", "kubra_zengin" ],
       "tags" : [ "General" ],
       "title" : "GDG DevFest San Francisco 2019 Opening"
     },
@@ -303,7 +303,7 @@
       "title" : "Break"
     },
     "111" : {
-      "description" : "TBA",
+      "description" : "Get unique insight into the world of developers in this candid conversation with various speakers from DevFest.",
       "language" : "English",
       "speakers": [ "michael_solati", "lizzie_siegle", "lavanya_shukla" ],
       "tags" : [ "General" ],
@@ -359,11 +359,11 @@
     },
     "207" : {
       "complexity" : "All",
-      "description" : "Creating awareness on GraphQL as an engineer that delivered a GraphQL/ReactJS app at Facebook in 2017. Now, I see GraphQL ready to take the same leap to the forefront of API technology that ReactJS did with web few years ago. Also sharing quiz link for potential users to check their skills with.",
+      "description" : "Most people think to build an app they must write native Android or iOS code. However, web frameworks allow developers to easily build powerful web apps. Tools like Ionic allow developers to make apps that feel native with their UI, offline capabilities, and the ability to install them onto a user's device. The web is advancing at an unprecedented rate; we can take advantage of this. Learn what makes a PWA progressive and how to build amazing (web) apps!",
       "language" : "English",
-      "speakers" : [ "abhishek_chowdhury" ],
-      "tags" : [ "Web", "GraphQL" ],
-      "title" : "Catching The GraphQL Wave"
+      "speakers" : [ "michael_solati" ],
+      "tags" : [ "Web", "PWA" ],
+      "title" : "Building (Progressive) Web Apps"
     },
     "301" : {
       "complexity" : "All",
@@ -375,11 +375,11 @@
     },
     "302" : {
       "complexity" : "All",
-      "description" : "Did you ever wonder if you could train/evaluate/run/reuse models on your browser or with node.js? \nTensorflow.js unlocks multiple possibilities for us. * Machine Learning and Deep Learning on the browser or in the backend with node.js * WebGL acceleration out of the box. * Our models run on the client for better privacy and lower latency. * Flexibility and consistency with popular Python libraries reusing models trained by those. \nIn this talk, we’ll see what Artificial Intelligence is and where does Tensorflow.js fit in it. Also, we’ll implement Linear Regression with JavaScript and introduce some Tensorflow.js concepts. Lastly, we’ll extend our simple model to use multiple dimensions by predicting house values from a set of features. Lastly, we’ll check out Transfer Learning by creating our own image recognition login system. \nBy going over some interesting demos we won’t only get accustomed to some Machine Learning concepts but also learn Tensorflow.js at the same time.",
+      "description" : "The use of machine learning in the industry is so recent that most companies are still trying to figure out what skills to look for when hiring for machine learning roles and how to assess those skills. This makes it hard for candidates to prepare. \nIn this talk, I’ll go over the different types of machine learning roles, the recruiting pipeline for those roles, and the interviewing process. This talk will also give practical tips for candidates to apply and interview for machine learning roles.",
       "language" : "English",
-      "speakers" : [ "bill_stavroulakis" ],
-      "tags" : [ "ML", "TensorFlow" ],
-      "title" : "Diving into Tensorflow.js"
+      "speakers" : [ "chip_huyen" ],
+      "tags" : [ "ML", "Interviews" ],
+      "title" : "Machine Learning Interviews"
     },
     "303" : {
       "complexity" : "Beginner",
@@ -391,11 +391,11 @@
     },
     "304" : {
       "complexity" : "All",
-      "description" : "Have you always wanted to be like Bach and Mozart but never had the time or resources to learn the art of music? Be sad no more! Vikram knows nothing about music, yet he thinks he might have a solution for you. Listen him out?",
+      "description" : "Did you ever wonder if you could train/evaluate/run/reuse models on your browser or with node.js? \nTensorflow.js unlocks multiple possibilities for us. * Machine Learning and Deep Learning on the browser or in the backend with node.js * WebGL acceleration out of the box. * Our models run on the client for better privacy and lower latency. * Flexibility and consistency with popular Python libraries reusing models trained by those. \nIn this talk, we’ll see what Artificial Intelligence is and where does Tensorflow.js fit in it. Also, we’ll implement Linear Regression with JavaScript and introduce some Tensorflow.js concepts. Lastly, we’ll extend our simple model to use multiple dimensions by predicting house values from a set of features. Lastly, we’ll check out Transfer Learning by creating our own image recognition login system. \nBy going over some interesting demos we won’t only get accustomed to some Machine Learning concepts but also learn Tensorflow.js at the same time.",
       "language" : "English",
-      "speakers" : [ "vikram_tiwari" ],
+      "speakers" : [ "bill_stavroulakis" ],
       "tags" : [ "ML", "TensorFlow" ],
-      "title" : "Be Bach on a Budget"
+      "title" : "Diving into Tensorflow.js"
     },
     "305" : {
       "complexity" : "All",
@@ -407,11 +407,11 @@
     },
     "306" : {
       "complexity" : "All",
-      "description" : "The use of machine learning in the industry is so recent that most companies are still trying to figure out what skills to look for when hiring for machine learning roles and how to assess those skills. This makes it hard for candidates to prepare. \nIn this talk, I’ll go over the different types of machine learning roles, the recruiting pipeline for those roles, and the interviewing process. This talk will also give practical tips for candidates to apply and interview for machine learning roles.",
+      "description" : "Have you always wanted to be like Bach and Mozart but never had the time or resources to learn the art of music? Be sad no more! Vikram knows nothing about music, yet he thinks he might have a solution for you. Listen him out?",
       "language" : "English",
-      "speakers" : [ "chip_huyen" ],
-      "tags" : [ "ML", "Interviews" ],
-      "title" : "Machine Learning Interviews"
+      "speakers" : [ "vikram_tiwari" ],
+      "tags" : [ "ML", "TensorFlow" ],
+      "title" : "Be Bach on a Budget"
     },
     "307" : {
       "complexity" : "All",
@@ -984,26 +984,6 @@
       "order" : 17,
       "title" : "Software Engineer"
     },
-    "abhishek_chowdhury" : {
-      "bio" : "Creative polymath currently engineering at Apple, leading Facebook DevCircle San Jose, and mentoring the immediate future of web engineering in cutting edge web technologies at UCJS. Love nature, music, and genuine positive humans. Doing my part in creating sustainable systems that deliver harmonious outputs from chaotic inputs.",
-      "company" : "Apple",
-      "companyLogo" : "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
-      "companyLogoUrl" : "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
-      "country" : "Silicon Valley, United States",
-      "featured" : true,
-      "name" : "Abhishek Chowdhury",
-      "photo" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/abhishek_chowdhury.jpg?alt=media&token=e0e116f8-f315-4e1c-a41a-416e57d424da",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/abhishek_chowdhury.jpg?alt=media&token=e0e116f8-f315-4e1c-a41a-416e57d424da",
-      "pronouns": "he/him",
-      "shortBio" : "Creative polymath currently engineering at Apple, leading Facebook DevCircle San Jose, and mentoring the immediate future of web engineering in cutting edge web technologies at UCJS. Love nature, music, and genuine positive humans. Doing my part in creating sustainable systems that deliver harmonious outputs from chaotic inputs.",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/abhishek-chowdhury/",
-        "name" : "LinkedIn"
-      } ],
-      "order" : 18,
-      "title" : "Software Engineer"
-    },
     "jaana_b_dogan" : {
       "bio" : "Jaana B. Dogan is working for Google Compute Engine at Google. She has a decade-long experience in building developer platforms and tools.",
       "company" : "Google",
@@ -1029,7 +1009,7 @@
         "description" : "Google",
         "name" : "google"
       } ],
-      "order" : 19,
+      "order" : 18,
       "title" : "Software Engineer"
     },
     "gabriela_de_queiroz" : {
@@ -1053,7 +1033,7 @@
         "link" : "https://k-roz.com/",
         "name" : "Website"
       }],
-      "order" : 20,
+      "order" : 19,
       "title" : "Sr. Developer Advocate"
     },
     "zoe_omander" : {
@@ -1070,7 +1050,7 @@
         "link" : "https://www.instagram.com/zoe_omander/",
         "name" : "Instagram"
       }],
-      "order" : 21
+      "order" : 20
     },
     "chip_huyen" : {
       "bio" : "Chip Huyen is working on productizing AI research at NVIDIA, focusing on building systems that can intelligently understand, process, and generate human language material. She graduated from Stanford University, where she created and taught the course TensorFlow for Deep Learning Research. She’s a key contributor to the toolkits OpenSeq2Seq, lazynlp, and SOTAWhat. \nShe’s also the author of four best-selling Vietnamese books. Her writings have been published in leading newspapers in the USA, France, and Vietnam. \nPreviously, she was with Netflix, Primer, Baomoi.com (acquired by VNG). She helped launch Coc Coc - Vietnam’s second most popular web browser with 20+ million monthly active users.",
@@ -1093,7 +1073,7 @@
         "link" : "https://huyenchip.com/",
         "name" : "Website"
       } ],
-      "order" : 22,
+      "order" : 21,
       "title" : "Software Engineer"
     },
     "kubra_zengin" : {
@@ -1117,7 +1097,7 @@
         "description" : "Google",
         "name" : "google"
       } ],
-      "order" : 23,
+      "order" : 22,
       "title" : "Developer Relations Program Manager"
     },
     "daniel_goncharov" : {
@@ -1141,7 +1121,7 @@
         "description" : "Google Developers Group Lead",
         "name" : "gdg"
       } ],
-      "order" : 24,
+      "order" : 23,
       "title" : "Head of 42 Robotics"
     }
   },
