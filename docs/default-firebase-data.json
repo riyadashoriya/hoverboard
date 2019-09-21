@@ -305,7 +305,7 @@
     "111" : {
       "description" : "Get unique insight into the world of developers in this candid conversation with various speakers from DevFest.",
       "language" : "English",
-      "speakers": [ "michael_solati", "lizzie_siegle", "lavanya_shukla" ],
+      "speakers": [ "michael_solati", "lizzie_siegle", "lavanya_shukla", "aaron_ma", "daniel_myers" ],
       "tags" : [ "General" ],
       "title" : "Fireside Chat"
     },
@@ -359,11 +359,11 @@
     },
     "207" : {
       "complexity" : "All",
-      "description" : "Most people think to build an app they must write native Android or iOS code. However, web frameworks allow developers to easily build powerful web apps. Tools like Ionic allow developers to make apps that feel native with their UI, offline capabilities, and the ability to install them onto a user's device. The web is advancing at an unprecedented rate; we can take advantage of this. Learn what makes a PWA progressive and how to build amazing (web) apps!",
+      "description" : "Come and experience an introduction to the various caching strategies of service workers, as well as how and why you'd want to use them!",
       "language" : "English",
-      "speakers" : [ "michael_solati" ],
-      "tags" : [ "Web", "PWA" ],
-      "title" : "Building (Progressive) Web Apps"
+      "speakers" : [ "patti_shin" ],
+      "tags" : [ "Web" ],
+      "title" : "Introduction to Service Workers"
     },
     "301" : {
       "complexity" : "All",
@@ -1067,7 +1067,7 @@
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/chipro",
-        "name" : "Twittwe"
+        "name" : "Twitter"
       }, {
         "icon" : "website",
         "link" : "https://huyenchip.com/",
@@ -1123,6 +1123,37 @@
       } ],
       "order" : 23,
       "title" : "Head of 42 Robotics"
+    },
+    "patti_shin" : {
+      "bio" : "Patti is a passionate front end developer as well an organizer for GDG San Francisco and PyLadies Oakland/WomenWhoCode East Bay.",
+      "company" : "WeWork",
+      "companyLogo" : "https://media.glassdoor.com/sql/661275/wework-squarelogo-1563481615852.png",
+      "companyLogoUrl" : "https://media.glassdoor.com/sql/661275/wework-squarelogo-1563481615852.png",
+      "country" : "San Francisco, United States",
+      "featured" : true,
+      "name" : "Patti Shin",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/patti-shin.jpg?alt=media&token=aa748d69-cf7b-492e-ac95-a579382ec40b",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sf-devfest.appspot.com/o/patti-shin.jpg?alt=media&token=aa748d69-cf7b-492e-ac95-a579382ec40b",
+      "pronouns": "she/her",
+      "shortBio" : "Patti is a passionate front end developer as well an organizer for GDG San Francisco and PyLadies Oakland/WomenWhoCode East Bay.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/pattishin",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/pattishin/",
+        "name" : "LinkedIn"
+      } ],
+      "badges" : [ {
+        "description" : "Women Techmakers Ambassador",
+        "name" : "wtm"
+      }, {
+        "description" : "Google Developers Group Lead",
+        "name" : "gdg"
+      } ],
+      "order" : 24,
+      "title" : "Software Engineer"
     }
   },
   "team" : [ {
